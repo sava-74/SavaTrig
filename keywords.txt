@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For SavaTrig
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SavaTrig	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+RT	KEYWORD2
+FT	KEYWORD2
+TT	KEYWORD2
+RS	KEYWORD2
+SR	KEYWORD2
